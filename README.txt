@@ -1,4 +1,4 @@
-#For establishment of a shared session key KA,B between the client A and the server B, we will use the
+# For establishment of a shared session key KA,B between the client A and the server B, we will use the
 Diffie-Hellman key exchange protocol, which is described below:
 
 Global Public Elements
